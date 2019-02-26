@@ -28,6 +28,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 * Use Github Pages to load publicly over the Internet
 * Use Jekyll (built into GitHub Pages) to deploy html templates and variables
 * Use best practices for accessible design to avoid errors and build in features as checked by the [WAVE web accessibility evaluation tool](http://wave.webaim.org/)
+* Include a complete alternative stylesheet, a la CSS Zen Garden
 
 
 ## Deadlines and products
