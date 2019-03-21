@@ -1,4 +1,55 @@
-body {
+.menu-container {
+  color: #EEEEEE;
+  background-color: #2B5C95;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu {
+  font-size: 20px;
+  justify-content: center;
+
+}
+
+.page-container {
   color:  #2B5C95;
   background-color: #EEEEEE;
+  display: flex;
+}
+
+.page {
+  justify-content: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.double {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.button:link,
+.button:visited {
+
+  display: block;
+  text-decoration: none;
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    /* Dark gray */
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
 }
