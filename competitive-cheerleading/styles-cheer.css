@@ -20,6 +20,7 @@
 
 .page {
   justify-content: center;
+  text-align: center;
 }
 
 .center {
@@ -36,6 +37,9 @@
   width: 50%;
 }
 
+.intro {
+  text-align: center;
+}
 
 .button:link,
 .button:visited {
@@ -52,4 +56,16 @@
 
   width: 200px;
   margin: 20px auto;
+}
+
+.front-photos-container {
+  display:flex;
+  justify-content: space-between;
+}
+
+
+.front-photos {
+  width: 20px;
+  display:flex;
+  justify-content: flex-start
 }
