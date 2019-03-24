@@ -4,11 +4,13 @@
   padding: 20px 0;
   display: flex;
   justify-content: space-around;
+  text-align: center;
 }
 
 .menu {
   font-size: 20px;
   justify-content: center;
+  width: 600px;
 
 }
 
@@ -68,4 +70,14 @@
   width: 20px;
   display:flex;
   justify-content: flex-start
+}
+
+.explanation-container {
+  color:  #2B5C95;
+  background-color: #EEEEEE;
+  display: flex;
+}
+
+.spin {
+  justify-content: flex-start;
 }
