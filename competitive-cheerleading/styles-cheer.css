@@ -78,17 +78,31 @@
   display: flex;
 }
 
+.skills-container {
+  color:  #2B5C95;
+  background-color: #EEEEEE;
+  display: flex;
+}
+
+.skills {
+  justify-content: center;
+  text-align: center;
+}
+
 .spin {
   display
 }
 
 .switch {
-  display: flex;
+  display: inline-flex;
+  justify-content: flex-start
 }
 
-.fbfield {
-  display: flex;
+.dub {
+  display: inline-flex;
+  justify-content: flex-end;
 }
+
 
 .story-container {
   color:  #2B5C95;
@@ -100,4 +114,14 @@
 .story {
   justify-content: center;
   text-align: center;
+}
+
+.beginning-photos {
+  display: inline-flex;
+  justify-content: flex-start;
+}
+
+.stunt-practice{
+  display:flex;
+  justify-content: center;
 }
