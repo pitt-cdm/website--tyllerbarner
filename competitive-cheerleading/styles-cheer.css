@@ -79,5 +79,25 @@
 }
 
 .spin {
-  justify-content: flex-start;
+  display
+}
+
+.switch {
+  display: flex;
+}
+
+.fbfield {
+  display: flex;
+}
+
+.story-container {
+  color:  #2B5C95;
+  background-color: #EEEEEE;
+  display: flex;
+  width: 1300px;
+}
+
+.story {
+  justify-content: center;
+  text-align: center;
 }
