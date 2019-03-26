@@ -89,8 +89,14 @@
   text-align: center;
 }
 
-.spin {
-  display
+.arabian {
+  display: inline-flex;
+  justify-content: flex-start
+}
+
+.sfull {
+  display: inline-flex;
+  justify-content: flex-end;
 }
 
 .switch {
@@ -123,5 +129,10 @@
 
 .stunt-practice{
   display:flex;
+  justify-content: center;
+}
+
+.winning-bid {
+  display: flex;
   justify-content: center;
 }
