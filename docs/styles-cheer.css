@@ -1,0 +1,148 @@
+.menu-container {
+  color: #EEEEEE;
+  background-color: #2B5C95;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  float: left;
+}
+
+.menu {
+  font-size: 20px;
+  justify-content: center;
+  width: 600px;
+
+}
+
+.button {
+  color: #ff5754;
+}
+.page-container {
+  color:  #2B5C95;
+  background-color: #EEEEEE;
+  display: flex;
+  flex-wrap: wrap;
+  float: right;
+}
+
+.page {
+  justify-content: center;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.double {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.intro {
+  text-align: center;
+}
+
+.button:link,
+.button:visited {
+
+  display: block;
+  text-decoration: none;
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    /* Dark gray */
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
+
+.front-photos-container {
+  display:flex;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+
+.front-photos {
+  width: 20px;
+  display:flex;
+  justify-content: flex-start;
+
+}
+
+.explanation-container {
+  color:  #2B5C95;
+  background-color: #EEEEEE;
+  display: flex;
+}
+
+.skills-container {
+  color:  #2B5C95;
+  background-color: #EEEEEE;
+  display: flex;
+}
+
+.skills {
+  justify-content: center;
+  text-align: center;
+}
+
+.arabian {
+  display: inline-flex;
+  justify-content: flex-start
+}
+
+.sfull {
+  display: inline-flex;
+  justify-content: flex-end;
+}
+
+.switch {
+  display: inline-flex;
+  justify-content: flex-start
+}
+
+.dub {
+  display: inline-flex;
+  justify-content: flex-end;
+}
+
+
+.story-container {
+  color:  #2B5C95;
+  background-color: #EEEEEE;
+  display: flex;
+}
+
+.story {
+  justify-content: center;
+  text-align: center;
+}
+
+.beginning-photos-container {
+}
+
+.beginning-photos {
+  display: inline-flex;
+  justify-content: flex-start;
+}
+
+.stunt-practice{
+  display:flex;
+  justify-content: center;
+}
+
+.winning-bid {
+  display: flex;
+  justify-content: center;
+}
