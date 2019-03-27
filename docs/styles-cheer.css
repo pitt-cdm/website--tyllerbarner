@@ -1,3 +1,4 @@
+/* included on every page */
 .menu-container {
   color: #EEEEEE;
   background-color: #2B5C95;
@@ -42,8 +43,24 @@ body {
 p {
   width: 50em;
   font-family: Helvetica, sans-serif;
+  font-size: 16px
 }
 
+h1{
+  font-family: Helvetica,sans-serif;
+  padding: 20px;
+  font-style: italic;
+  font-size: 50px;
+}
+h2 {
+  font-family: Helvetica, cursive;
+  font-size: 45px;
+  background-color: #c7d1cf;
+  padding: 15px
+}
+
+/*end page inclusion */
+/*begin index page */
 
 .page-container {
   color:  #2B5C95;
@@ -80,7 +97,6 @@ p {
   text-align: center;
 }
 
-
 .front-photos-container {
   display:flex;
   justify-content: flex-start;
@@ -95,6 +111,9 @@ p {
 
 }
 
+/*end index page*/
+/*begin explanation page*/
+
 .explanation-container {
   color:  #2B5C95;
   background-color: #EEEEEE;
@@ -107,10 +126,13 @@ p {
 .explanation {
   display: flex;
   align-items: center;
-  text-align: left;
+  text-align: center;
   flex-direction: column;
   justify-content: flex-start;
 }
+
+/*end explanation page*/
+/*begin skills page*/
 
 .skills-container {
   color:  #2B5C95;
@@ -149,6 +171,8 @@ p {
   justify-content: flex-end;
 }
 
+/*end skills page*/
+/*begin my story page*/
 
 .story-container {
   color:  #2B5C95;
