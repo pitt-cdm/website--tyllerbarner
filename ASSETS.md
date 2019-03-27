@@ -1,4 +1,4 @@
-Gif on index page is from gifer.com\
+Gif on index page is from gifer.com (https://gifer.com/en/Fblc)\
 
 Images/gifs titled:\
 
