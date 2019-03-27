@@ -31,6 +31,6 @@ pyramid\
 
 are from Cassi Floom\
 
-All of their written approvals are in a folder titled Credits Approval\
+All of their written approvals are in a folder titled Credits Approval located in the docs folder\
 
 All other photos and gifs are my own\
