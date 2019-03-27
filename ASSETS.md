@@ -1,32 +1,32 @@
-Gif on index page is from gifer.com 
+Gif on index page is from gifer.com /
 
-Images/gifs titled: 
+Images/gifs titled: /
 
-syds-jumps 
-sfull 
-are from Sydney Standen
+syds-jumps /
+sfull /
+are from Sydney Standen/
 
-Images/gifs titled:
+Images/gifs titled: /
 
-spin
-cheetah
-meg
-kelsey
-arabian
-switch
-basket toss
+spin /
+cheetah /
+meg /
+kelsey /
+arabian /
+switch /
+basket toss /
 
 are from Cassidy Bowling and Megan Jones 
 
 Images/gifs titled: 
 
-stunt-practice
-kjump 
+stunt-practice /
+kjump /
 
 are from Kristi Greer 
 
 Images titled: 
 
-pyramid 
+pyramid /
 
 are from Cassi Floom 
