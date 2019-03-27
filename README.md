@@ -4,3 +4,5 @@ this sport and have always loved to talk about why competitive cheerleading is a
 think of when they imagine cheerleading. 
 
 This website walks through a few of the basic ideas regarding cheerleading with an explanation, skills, and my story as well. 
+
+My files are in the docs folder and my website link is https://pitt-cdm.github.io/website--tyllerbarner/
