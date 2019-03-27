@@ -146,6 +146,10 @@ h2 {
   justify-content: flex-start;
 }
 
+.exp {
+  font-size: 20px;
+}
+
 /*end explanation page*/
 /*begin skills page*/
 
@@ -201,7 +205,7 @@ h2 {
 .story {
   display: flex;
   align-items: center;
-  text-align: left;
+  text-align: center;
   flex-direction: column;
   justify-content: flex-start;
 }
@@ -223,4 +227,8 @@ h2 {
 .winning-bid {
   display: flex;
   justify-content: center;
+}
+
+.years {
+  font-size: 25px;
 }
