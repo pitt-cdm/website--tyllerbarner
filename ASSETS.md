@@ -1,36 +1,36 @@
-Gif on index page is from gifer.com \
+Gif on index page is from gifer.com\
 
-Images/gifs titled: \
+Images/gifs titled:\
 
-syds-jumps \
-sfull \
-are from Sydney Standen \
+syds-jumps\
+sfull\
+are from Sydney Standen\
 
-Images/gifs titled: \
+Images/gifs titled:\
 
-spin \
+spin\
 cheetah\
 meg\
 kelsey\
-arabian \
-switch \
-basket toss 
+arabian\
+switch\
+basket toss\
 
-are from Cassidy Bowling and Megan Jones \ 
+are from Cassidy Bowling and Megan Jones\ 
 
-Images/gifs titled: \
+Images/gifs titled:\
 
-stunt-practice \
-kjump \
+stunt-practice\
+kjump\
 
-are from Kristi Greer \
+are from Kristi Greer\
 
-Images titled: \
+Images titled:\
 
-pyramid \
+pyramid\
 
-are from Cassi Floom \
+are from Cassi Floom\
 
-All of their written approvals are in a folder titled Credits Approval \
+All of their written approvals are in a folder titled Credits Approval\
 
 All other photos and gifs are my own\
